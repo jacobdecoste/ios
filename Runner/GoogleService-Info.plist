@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>742504001540-0a7a1qrmdj413d285c8kt8asce13mijv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.742504001540-0a7a1qrmdj413d285c8kt8asce13mijv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>742504001540-l0s5te0f6g34eerdol12kvmqcs4jg5o2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgtdEKOfqkhS4zkpoGVX6yDAqotznBR-Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>742504001540</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.accountableapp.space</string>
+	<key>PROJECT_ID</key>
+	<string>accountable-41e5c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>accountable-41e5c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:742504001540:ios:ab935f3ca6517c6fb44551</string>
+	<key>DATABASE_URL</key>
+	<string>https://accountable-41e5c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
